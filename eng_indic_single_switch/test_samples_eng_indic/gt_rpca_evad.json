@@ -1,0 +1,204 @@
+{
+  "change_point_sec": {
+    "sample_00_eng_mal": [
+      21.0,
+      0.0
+    ],
+    "sample_01_eng_pun": [
+      18.88,
+      0.0
+    ],
+    "sample_02_eng_kan": [
+      6.0,
+      0.0
+    ],
+    "sample_03_eng_ben": [
+      16.72,
+      0.0
+    ],
+    "sample_04_eng_mar": [
+      23.0,
+      0.0
+    ],
+    "sample_05_eng_kan": [
+      6.0,
+      0.0
+    ],
+    "sample_06_tel_eng": [
+      5.000125,
+      0.0
+    ],
+    "sample_07_eng_guj": [
+      14.912,
+      0.0
+    ],
+    "sample_08_eng_tam": [
+      10.424,
+      0.0
+    ],
+    "sample_09_tam_eng": [
+      24.0,
+      0.0
+    ],
+    "sample_10_ben_eng": [
+      10.000125,
+      0.0
+    ],
+    "sample_11_eng_guj": [
+      21.0,
+      0.0
+    ],
+    "sample_12_mal_eng": [
+      8.976125000000001,
+      0.0
+    ],
+    "sample_13_eng_mar": [
+      20.304,
+      0.0
+    ],
+    "sample_14_eng_mal": [
+      13.0,
+      0.0
+    ],
+    "sample_15_pun_eng": [
+      23.464,
+      0.0
+    ],
+    "sample_16_asm_eng": [
+      4.360125,
+      0.0
+    ],
+    "sample_17_eng_tam": [
+      6.4879999999999995,
+      0.0
+    ],
+    "sample_18_mal_eng": [
+      5.000125,
+      0.0
+    ],
+    "sample_19_odi_eng": [
+      10.000125,
+      0.0
+    ],
+    "sample_20_eng_asm": [
+      16.0,
+      0.0
+    ],
+    "sample_21_eng_kan": [
+      5.904,
+      0.0
+    ],
+    "sample_22_eng_ben": [
+      22.0,
+      0.0
+    ],
+    "sample_23_eng_tam": [
+      16.776,
+      0.0
+    ],
+    "sample_24_mar_eng": [
+      16.944,
+      0.0
+    ],
+    "sample_25_eng_mal": [
+      15.0,
+      0.0
+    ],
+    "sample_26_eng_odi": [
+      17.0,
+      0.0
+    ],
+    "sample_27_kan_eng": [
+      10.000125,
+      0.0
+    ],
+    "sample_28_guj_eng": [
+      10.000125,
+      0.0
+    ],
+    "sample_29_pun_eng": [
+      14.992,
+      0.0
+    ],
+    "sample_30_eng_asm": [
+      23.0,
+      0.0
+    ],
+    "sample_31_odi_eng": [
+      5.000125,
+      0.0
+    ],
+    "sample_32_guj_eng": [
+      8.752125,
+      0.0
+    ],
+    "sample_33_mar_eng": [
+      22.343999999999998,
+      0.0
+    ],
+    "sample_34_kan_eng": [
+      10.000125,
+      0.0
+    ],
+    "sample_35_hin_eng": [
+      10.000125,
+      0.0
+    ],
+    "sample_36_eng_mal": [
+      13.264,
+      0.0
+    ],
+    "sample_37_eng_odi": [
+      23.0,
+      0.0
+    ],
+    "sample_38_odi_eng": [
+      8.592125000000001,
+      0.0
+    ],
+    "sample_39_tel_eng": [
+      10.000125,
+      0.0
+    ],
+    "sample_40_eng_pun": [
+      15.392,
+      0.0
+    ],
+    "sample_41_kan_eng": [
+      10.000125,
+      0.0
+    ],
+    "sample_42_eng_asm": [
+      16.0,
+      0.0
+    ],
+    "sample_43_eng_pun": [
+      23.36,
+      0.0
+    ],
+    "sample_44_hin_eng": [
+      9.456125,
+      0.0
+    ],
+    "sample_45_kan_eng": [
+      5.000125,
+      0.0
+    ],
+    "sample_46_asm_eng": [
+      5.000125,
+      0.0
+    ],
+    "sample_47_kan_eng": [
+      10.000125,
+      0.0
+    ],
+    "sample_48_kan_eng": [
+      8.656125,
+      0.0
+    ],
+    "sample_49_eng_tel": [
+      18.296,
+      0.0
+    ]
+  }
+}

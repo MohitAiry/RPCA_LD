@@ -1,0 +1,502 @@
+[
+    {
+        "filename": "sample_00_eng_mal.wav",
+        "lang1": "eng",
+        "lang2": "mal",
+        "file1_source": "eng_248.wav",
+        "file2_source": "mal2094.wav",
+        "boundary_timestamp_sec": 21.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 31.000125
+    },
+    {
+        "filename": "sample_01_eng_pun.wav",
+        "lang1": "eng",
+        "lang2": "pun",
+        "file1_source": "eng_305.wav",
+        "file2_source": "pun_1406.wav",
+        "boundary_timestamp_sec": 20.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 31.0
+    },
+    {
+        "filename": "sample_02_eng_kan.wav",
+        "lang1": "eng",
+        "lang2": "kan",
+        "file1_source": "eng_1358.wav",
+        "file2_source": "kan804.wav",
+        "boundary_timestamp_sec": 6.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 16.000125
+    },
+    {
+        "filename": "sample_03_eng_ben.wav",
+        "lang1": "eng",
+        "lang2": "ben",
+        "file1_source": "eng_889.wav",
+        "file2_source": "ben704.wav",
+        "boundary_timestamp_sec": 18.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 28.000125
+    },
+    {
+        "filename": "sample_04_eng_mar.wav",
+        "lang1": "eng",
+        "lang2": "mar",
+        "file1_source": "eng_1422.wav",
+        "file2_source": "mar_698.wav",
+        "boundary_timestamp_sec": 23.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 47.0
+    },
+    {
+        "filename": "sample_05_eng_kan.wav",
+        "lang1": "eng",
+        "lang2": "kan",
+        "file1_source": "eng_1430.wav",
+        "file2_source": "kan2763.wav",
+        "boundary_timestamp_sec": 6.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 11.000125
+    },
+    {
+        "filename": "sample_06_tel_eng.wav",
+        "lang1": "tel",
+        "lang2": "eng",
+        "file1_source": "tel2622.wav",
+        "file2_source": "eng_426.wav",
+        "boundary_timestamp_sec": 5.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 17.000125
+    },
+    {
+        "filename": "sample_07_eng_guj.wav",
+        "lang1": "eng",
+        "lang2": "guj",
+        "file1_source": "eng_320.wav",
+        "file2_source": "guj1378.wav",
+        "boundary_timestamp_sec": 16.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 26.000125
+    },
+    {
+        "filename": "sample_08_eng_tam.wav",
+        "lang1": "eng",
+        "lang2": "tam",
+        "file1_source": "eng_885.wav",
+        "file2_source": "tam_609.wav",
+        "boundary_timestamp_sec": 11.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 33.0
+    },
+    {
+        "filename": "sample_09_tam_eng.wav",
+        "lang1": "tam",
+        "lang2": "eng",
+        "file1_source": "tam_330.wav",
+        "file2_source": "eng_31.wav",
+        "boundary_timestamp_sec": 24.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 38.0
+    },
+    {
+        "filename": "sample_10_ben_eng.wav",
+        "lang1": "ben",
+        "lang2": "eng",
+        "file1_source": "ben3490.wav",
+        "file2_source": "eng_807.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 16.000125
+    },
+    {
+        "filename": "sample_11_eng_guj.wav",
+        "lang1": "eng",
+        "lang2": "guj",
+        "file1_source": "eng_1189.wav",
+        "file2_source": "guj1109.wav",
+        "boundary_timestamp_sec": 21.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 31.000125
+    },
+    {
+        "filename": "sample_12_mal_eng.wav",
+        "lang1": "mal",
+        "lang2": "eng",
+        "file1_source": "mal1344.wav",
+        "file2_source": "eng_296.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 27.000125
+    },
+    {
+        "filename": "sample_13_eng_mar.wav",
+        "lang1": "eng",
+        "lang2": "mar",
+        "file1_source": "eng_1113.wav",
+        "file2_source": "mar_1003.wav",
+        "boundary_timestamp_sec": 22.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 42.0
+    },
+    {
+        "filename": "sample_14_eng_mal.wav",
+        "lang1": "eng",
+        "lang2": "mal",
+        "file1_source": "eng_528.wav",
+        "file2_source": "mal589.wav",
+        "boundary_timestamp_sec": 13.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 23.000125
+    },
+    {
+        "filename": "sample_15_pun_eng.wav",
+        "lang1": "pun",
+        "lang2": "eng",
+        "file1_source": "pun_1295.wav",
+        "file2_source": "eng_37.wav",
+        "boundary_timestamp_sec": 25.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 30.0
+    },
+    {
+        "filename": "sample_16_asm_eng.wav",
+        "lang1": "asm",
+        "lang2": "eng",
+        "file1_source": "asm503.wav",
+        "file2_source": "eng_420.wav",
+        "boundary_timestamp_sec": 5.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 22.000125
+    },
+    {
+        "filename": "sample_17_eng_tam.wav",
+        "lang1": "eng",
+        "lang2": "tam",
+        "file1_source": "eng_32.wav",
+        "file2_source": "tam_197.wav",
+        "boundary_timestamp_sec": 7.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 20.0
+    },
+    {
+        "filename": "sample_18_mal_eng.wav",
+        "lang1": "mal",
+        "lang2": "eng",
+        "file1_source": "mal2534.wav",
+        "file2_source": "eng_492.wav",
+        "boundary_timestamp_sec": 5.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 17.000125
+    },
+    {
+        "filename": "sample_19_odi_eng.wav",
+        "lang1": "odi",
+        "lang2": "eng",
+        "file1_source": "odi2210.wav",
+        "file2_source": "eng_682.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 26.000125
+    },
+    {
+        "filename": "sample_20_eng_asm.wav",
+        "lang1": "eng",
+        "lang2": "asm",
+        "file1_source": "eng_391.wav",
+        "file2_source": "asm2732.wav",
+        "boundary_timestamp_sec": 16.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 21.000125
+    },
+    {
+        "filename": "sample_21_eng_kan.wav",
+        "lang1": "eng",
+        "lang2": "kan",
+        "file1_source": "eng_1322.wav",
+        "file2_source": "kan1514.wav",
+        "boundary_timestamp_sec": 6.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 16.000125
+    },
+    {
+        "filename": "sample_22_eng_ben.wav",
+        "lang1": "eng",
+        "lang2": "ben",
+        "file1_source": "eng_1018.wav",
+        "file2_source": "ben3319.wav",
+        "boundary_timestamp_sec": 22.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 32.000125
+    },
+    {
+        "filename": "sample_23_eng_tam.wav",
+        "lang1": "eng",
+        "lang2": "tam",
+        "file1_source": "eng_586.wav",
+        "file2_source": "tam_1340.wav",
+        "boundary_timestamp_sec": 17.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 29.0
+    },
+    {
+        "filename": "sample_24_mar_eng.wav",
+        "lang1": "mar",
+        "lang2": "eng",
+        "file1_source": "mar_246.wav",
+        "file2_source": "eng_479.wav",
+        "boundary_timestamp_sec": 18.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 33.0
+    },
+    {
+        "filename": "sample_25_eng_mal.wav",
+        "lang1": "eng",
+        "lang2": "mal",
+        "file1_source": "eng_677.wav",
+        "file2_source": "mal856.wav",
+        "boundary_timestamp_sec": 15.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 25.000125
+    },
+    {
+        "filename": "sample_26_eng_odi.wav",
+        "lang1": "eng",
+        "lang2": "odi",
+        "file1_source": "eng_577.wav",
+        "file2_source": "odi1632.wav",
+        "boundary_timestamp_sec": 17.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 27.000125
+    },
+    {
+        "filename": "sample_27_kan_eng.wav",
+        "lang1": "kan",
+        "lang2": "eng",
+        "file1_source": "kan818.wav",
+        "file2_source": "eng_1039.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 16.000125
+    },
+    {
+        "filename": "sample_28_guj_eng.wav",
+        "lang1": "guj",
+        "lang2": "eng",
+        "file1_source": "guj286.wav",
+        "file2_source": "eng_313.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 21.000125
+    },
+    {
+        "filename": "sample_29_pun_eng.wav",
+        "lang1": "pun",
+        "lang2": "eng",
+        "file1_source": "pun_1325.wav",
+        "file2_source": "eng_896.wav",
+        "boundary_timestamp_sec": 18.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 35.0
+    },
+    {
+        "filename": "sample_30_eng_asm.wav",
+        "lang1": "eng",
+        "lang2": "asm",
+        "file1_source": "eng_1280.wav",
+        "file2_source": "asm3947.wav",
+        "boundary_timestamp_sec": 23.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 28.000125
+    },
+    {
+        "filename": "sample_31_odi_eng.wav",
+        "lang1": "odi",
+        "lang2": "eng",
+        "file1_source": "odi2640.wav",
+        "file2_source": "eng_955.wav",
+        "boundary_timestamp_sec": 5.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 13.000125
+    },
+    {
+        "filename": "sample_32_guj_eng.wav",
+        "lang1": "guj",
+        "lang2": "eng",
+        "file1_source": "guj1077.wav",
+        "file2_source": "eng_1245.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 24.000125
+    },
+    {
+        "filename": "sample_33_mar_eng.wav",
+        "lang1": "mar",
+        "lang2": "eng",
+        "file1_source": "mar_1317.wav",
+        "file2_source": "eng_741.wav",
+        "boundary_timestamp_sec": 25.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 47.0
+    },
+    {
+        "filename": "sample_34_kan_eng.wav",
+        "lang1": "kan",
+        "lang2": "eng",
+        "file1_source": "kan2266.wav",
+        "file2_source": "eng_955.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 18.000125
+    },
+    {
+        "filename": "sample_35_hin_eng.wav",
+        "lang1": "hin",
+        "lang2": "eng",
+        "file1_source": "hin2081.wav",
+        "file2_source": "eng_1246.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 15.000125
+    },
+    {
+        "filename": "sample_36_eng_mal.wav",
+        "lang1": "eng",
+        "lang2": "mal",
+        "file1_source": "eng_1202.wav",
+        "file2_source": "mal2498.wav",
+        "boundary_timestamp_sec": 14.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 19.000125
+    },
+    {
+        "filename": "sample_37_eng_odi.wav",
+        "lang1": "eng",
+        "lang2": "odi",
+        "file1_source": "eng_1129.wav",
+        "file2_source": "odi249.wav",
+        "boundary_timestamp_sec": 23.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 33.000125
+    },
+    {
+        "filename": "sample_38_odi_eng.wav",
+        "lang1": "odi",
+        "lang2": "eng",
+        "file1_source": "odi662.wav",
+        "file2_source": "eng_722.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 17.000125
+    },
+    {
+        "filename": "sample_39_tel_eng.wav",
+        "lang1": "tel",
+        "lang2": "eng",
+        "file1_source": "tel1885.wav",
+        "file2_source": "eng_729.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 30.000125
+    },
+    {
+        "filename": "sample_40_eng_pun.wav",
+        "lang1": "eng",
+        "lang2": "pun",
+        "file1_source": "eng_1402.wav",
+        "file2_source": "pun_1477.wav",
+        "boundary_timestamp_sec": 16.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 38.0
+    },
+    {
+        "filename": "sample_41_kan_eng.wav",
+        "lang1": "kan",
+        "lang2": "eng",
+        "file1_source": "kan1878.wav",
+        "file2_source": "eng_1102.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 31.000125
+    },
+    {
+        "filename": "sample_42_eng_asm.wav",
+        "lang1": "eng",
+        "lang2": "asm",
+        "file1_source": "eng_678.wav",
+        "file2_source": "asm950.wav",
+        "boundary_timestamp_sec": 16.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 21.000125
+    },
+    {
+        "filename": "sample_43_eng_pun.wav",
+        "lang1": "eng",
+        "lang2": "pun",
+        "file1_source": "eng_1343.wav",
+        "file2_source": "pun_1000.wav",
+        "boundary_timestamp_sec": 24.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 37.0
+    },
+    {
+        "filename": "sample_44_hin_eng.wav",
+        "lang1": "hin",
+        "lang2": "eng",
+        "file1_source": "hin1535.wav",
+        "file2_source": "eng_769.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 34.000125
+    },
+    {
+        "filename": "sample_45_kan_eng.wav",
+        "lang1": "kan",
+        "lang2": "eng",
+        "file1_source": "kan2632.wav",
+        "file2_source": "eng_58.wav",
+        "boundary_timestamp_sec": 5.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 28.000125
+    },
+    {
+        "filename": "sample_46_asm_eng.wav",
+        "lang1": "asm",
+        "lang2": "eng",
+        "file1_source": "asm1695.wav",
+        "file2_source": "eng_322.wav",
+        "boundary_timestamp_sec": 5.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 18.000125
+    },
+    {
+        "filename": "sample_47_kan_eng.wav",
+        "lang1": "kan",
+        "lang2": "eng",
+        "file1_source": "kan1721.wav",
+        "file2_source": "eng_1034.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 25.000125
+    },
+    {
+        "filename": "sample_48_kan_eng.wav",
+        "lang1": "kan",
+        "lang2": "eng",
+        "file1_source": "kan1047.wav",
+        "file2_source": "eng_1346.wav",
+        "boundary_timestamp_sec": 10.000125,
+        "sample_rate": 16000,
+        "total_duration_sec": 26.000125
+    },
+    {
+        "filename": "sample_49_eng_tel.wav",
+        "lang1": "eng",
+        "lang2": "tel",
+        "file1_source": "eng_932.wav",
+        "file2_source": "tel2821.wav",
+        "boundary_timestamp_sec": 19.0,
+        "sample_rate": 16000,
+        "total_duration_sec": 24.000125
+    }
+]
